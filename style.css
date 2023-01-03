@@ -1,0 +1,29 @@
+.heading{
+    font-size: 30px;
+    color: white;
+    width: 100%;
+    border-radius: 10px;
+}
+#note{
+    font-size: 15px;
+    color: black;
+}
+.div_speed{
+    float:left;
+}
+.disk{
+    width: 200px;
+    border-radius: 100px;
+}
+.div_volume{
+    float: right;
+}
+#play{
+    width:150px;
+    font-size: 20px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-top: 100px;
+}
